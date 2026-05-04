@@ -423,9 +423,10 @@ def import_trade_republic(pdf_path):
     rows = []
     print(f"{datetime.now()} DEBUG - Starting pdf import with path: {pdf_path}")
     with pdfplumber.open(pdf_path) as pdf:
-        print(f"{datetime.now()} DEBUG - The pdf is: {pdf.pages}")
-
-    # Convert the list of rows into a DataFrame
-    df = pd.DataFrame(rows)  # Assuming the first row contains headers
-    print(f"{datetime.now()} DEBUG - Importing pdf readed:") 
-    print(df)
+        print(f"{datetime.now()} DEBUG - The pdf is: {pdf.pages[0]}")
+        for page in pdf.pages:
+            table= page.extract_table()
+            print(f"{datetime.now()} DEBUG - The table extracted is: {table}")    
+            text= page.extract_text()
+            print(f"{datetime.now()} DEBUG - The text extracted is: {text}")
+    

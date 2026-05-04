@@ -194,7 +194,7 @@ def show_expenses(data, categories, subcategories):
             ),
             "Importe": st.column_config.NumberColumn(
                 "Importe",
-                format="%.2f Importe",
+                format="%.2f €",
                 # min_value=0, # No permite números negativos
                 required=True
             ),
@@ -319,7 +319,7 @@ def show_import(data, categories, subcategories, accounts):
             ),
             "Importe": st.column_config.NumberColumn(
                 "Importe",
-                format="%.2f Importe",
+                format="%.2f €",
                 # min_value=0, # No permite números negativos
                 required=True
             ),
