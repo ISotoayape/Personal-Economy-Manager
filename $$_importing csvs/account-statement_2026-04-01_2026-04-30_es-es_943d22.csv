@@ -1,0 +1,56 @@
+Tipo,Producto,Fecha de inicio,Fecha de finalización,Descripción,Importe,Comisión,Divisa,State,Saldo
+Pago con tarjeta,Actual,2026-03-31 14:21:56,2026-04-01 5:53:35,The Bristol Port Compa,-8.8,0,EUR,COMPLETADO,479.44
+Pago con tarjeta,Actual,2026-03-31 17:23:52,2026-04-01 12:11:15,Sainsbury's,-51.19,0,EUR,COMPLETADO,428.25
+Pago con tarjeta,Actual,2026-03-31 22:42:15,2026-04-01 12:18:13,Bilbao Airport,-4.5,0,EUR,COMPLETADO,423.75
+Recargas,Actual,2026-04-01 23:00:48,2026-04-01 23:00:48,Dinero aÃ±adido a travÃ©s de BIZUM,19.2,0,EUR,COMPLETADO,442.95
+Pago con tarjeta,Actual,2026-04-01 13:54:25,2026-04-02 3:11:54,PULL&BEAR,-73.95,0,EUR,COMPLETADO,369
+Pago con tarjeta,Actual,2026-04-01 12:58:58,2026-04-02 3:20:33,Bar Ziripot,-11.4,0,EUR,COMPLETADO,357.6
+Pago con tarjeta,Actual,2026-04-01 17:56:54,2026-04-02 17:24:12,Altube,-30.11,0,EUR,COMPLETADO,327.49
+Pago con tarjeta,Actual,2026-04-01 19:26:39,2026-04-02 17:24:36,Fermin Abaurrea Taxi,-22.7,0,EUR,COMPLETADO,304.79
+Pago con tarjeta,Actual,2026-04-01 22:56:26,2026-04-02 17:25:01,Bar Kanpondoa,-96,0,EUR,COMPLETADO,208.79
+Pago con tarjeta,Actual,2026-04-01 15:10:32,2026-04-02 17:38:52,Hdh,-39.05,0,EUR,COMPLETADO,169.74
+Recargas,Actual,2026-04-02 21:15:13,2026-04-02 21:15:13,Dinero aÃ±adido a travÃ©s de BIZUM,38.4,0,EUR,COMPLETADO,208.14
+Pago con tarjeta,Actual,2026-04-02 14:07:14,2026-04-03 3:22:23,Sorgin Taberna,-9.5,0,EUR,COMPLETADO,198.64
+Pago con tarjeta,Actual,2026-04-03 12:48:44,2026-04-04 3:05:07,Bar Kanpondoa,-14.1,0,EUR,COMPLETADO,184.54
+Pago con tarjeta,Actual,2026-04-04 12:18:26,2026-04-05 3:09:54,Arando Taberna,-19.5,0,EUR,COMPLETADO,165.04
+Pago con tarjeta,Actual,2026-04-01 18:00:48,2026-04-05 9:07:07,Autopistas,-6.85,0,EUR,COMPLETADO,158.19
+Pago con tarjeta,Actual,2026-04-04 18:14:45,2026-04-05 9:16:14,Irati Express Sl Aoiz,-11.88,0,EUR,COMPLETADO,146.31
+Pago con tarjeta,Actual,2026-04-04 19:21:30,2026-04-05 9:25:00,Fronton Toki Eder Aoiz,-4.8,0,EUR,COMPLETADO,141.51
+Pago con tarjeta,Actual,2026-04-04 21:33:48,2026-04-05 9:25:02,Fronton Toki Eder Aoiz,-4.8,0,EUR,COMPLETADO,136.71
+Pago con tarjeta,Actual,2026-04-05 13:18:05,2026-04-06 2:50:17,Zuribeltz,-22.1,0,EUR,COMPLETADO,114.61
+Recargas,Actual,2026-04-07 14:35:27,2026-04-07 14:35:27,Pago de IKER SOTO AYAPE,374,0,EUR,COMPLETADO,488.61
+Transferir,Actual,2026-04-07 20:31:43,2026-04-07 20:31:43,Bizum payment to: Inigo L.H.,-41.64,0,EUR,COMPLETADO,446.97
+Transferir,Actual,2026-04-07 20:32:47,2026-04-07 20:32:48,Bizum payment to: Elisa A.A.,-26,0,EUR,COMPLETADO,420.97
+Recargas,Actual,2026-04-08 8:11:20,2026-04-08 8:11:21,Pago de IKER SOTO AYAPE,1200,0,EUR,COMPLETADO,1620.97
+Pago con tarjeta,Actual,2026-04-07 18:29:49,2026-04-08 13:02:08,Suministros Orreaga,-8.21,0,EUR,COMPLETADO,1612.76
+Pago con tarjeta,Actual,2026-04-09 14:00:20,2026-04-10 3:59:35,Intermorea,-62.98,0,EUR,COMPLETADO,1549.78
+Pago con tarjeta,Actual,2026-04-09 20:51:29,2026-04-10 12:54:24,Bar Kanpondoa,-2,0,EUR,COMPLETADO,1547.78
+Recargas,Actual,2026-04-11 13:59:50,2026-04-11 13:59:50,Dinero aÃ±adido a travÃ©s de BIZUM,5,0,EUR,COMPLETADO,1552.78
+Pago con tarjeta,Actual,2026-04-11 13:27:53,2026-04-12 3:29:39,Fronton Toki Eder Aoiz,-17.8,0,EUR,COMPLETADO,1534.98
+Transferir,Actual,2026-04-12 9:28:45,2026-04-12 9:28:46,Bizum payment to: Ainara Z.A.,-17.5,0,EUR,COMPLETADO,1517.48
+Transferir,Actual,2026-04-14 9:11:01,2026-04-14 9:11:02,Bizum payment to: Ignacio S.J.,-82,0,EUR,COMPLETADO,1435.48
+Recargas,Actual,2026-04-14 9:12:09,2026-04-14 9:12:10,Pago de IKER SOTO AYAPE,82,0,EUR,COMPLETADO,1517.48
+Pago con tarjeta,Actual,2026-04-14 18:15:21,,Village Bristol,-1.16,0,EUR,DEVUELTO,
+Transferir,Actual,2026-04-14 19:04:04,2026-04-14 19:04:04,Bizum payment to: LEIRE.R.C.,-20,0,EUR,COMPLETADO,1497.48
+Pago con tarjeta,Actual,2026-04-15 14:19:00,2026-04-16 6:06:09,The Bristol Port Compa,-11.79,0,EUR,COMPLETADO,1485.69
+Pago con tarjeta,Actual,2026-04-16 14:13:17,2026-04-17 7:14:44,The Bristol Port Compa,-11.78,0,EUR,COMPLETADO,1473.91
+Pago con tarjeta,Actual,2026-04-17 21:08:04,2026-04-18 3:06:41,Village Hotels,-73.53,0,EUR,COMPLETADO,1400.38
+Pago con tarjeta,Actual,2026-04-17 13:52:09,2026-04-18 11:23:06,The Bristol Port Compa,-7.96,0,EUR,COMPLETADO,1392.42
+Pago con tarjeta,Actual,2026-04-19 15:15:33,2026-04-20 8:43:22,RingGo,-10.04,0.1,EUR,COMPLETADO,1382.28
+Pago con tarjeta,Actual,2026-04-18 20:27:19,2026-04-20 8:43:23,RingGo,-5.89,0.06,EUR,COMPLETADO,1376.33
+Transferir,Actual,2026-04-20 23:27:53,2026-04-20 23:27:53,Bizum payment to: Inigo L.H.,-45,0,EUR,COMPLETADO,1331.33
+Pago con tarjeta,Actual,2026-04-20 14:14:35,2026-04-21 6:03:32,The Bristol Port Compa,-2.77,0,EUR,COMPLETADO,1328.56
+Pago con tarjeta,Actual,2026-04-20 13:39:52,2026-04-21 6:03:33,The Bristol Port Compa,-7.97,0,EUR,COMPLETADO,1320.59
+Pago con tarjeta,Actual,2026-04-21 14:32:39,2026-04-22 5:51:09,The Bristol Port Compa,-11.78,0,EUR,COMPLETADO,1308.81
+Pago con tarjeta,Actual,2026-04-22 13:42:12,2026-04-23 5:59:17,The Bristol Port Compa,-10.99,0,EUR,COMPLETADO,1297.82
+Pago con tarjeta,Actual,2026-04-23 13:45:10,2026-04-24 5:45:39,The Bristol Port Compa,-11.03,0,EUR,COMPLETADO,1286.79
+Pago con tarjeta,Actual,2026-04-24 14:22:34,2026-04-25 5:43:36,The Bristol Port Compa,-11,0,EUR,COMPLETADO,1275.79
+Pago con tarjeta,Actual,2026-04-24 18:46:24,2026-04-25 14:39:38,Sainsbury's,-20.06,0,EUR,COMPLETADO,1255.73
+Pago con tarjeta,Actual,2026-04-26 21:04:51,2026-04-27 3:55:43,Village Hotels,-24.01,0.24,EUR,COMPLETADO,1231.48
+Pago con tarjeta,Actual,2026-04-25 20:46:17,2026-04-27 6:01:48,Left Handed Giant Brewpub,-15.55,0.16,EUR,COMPLETADO,1215.77
+Pago con tarjeta,Actual,2026-04-25 20:27:53,2026-04-27 9:32:11,RingGo,-5.92,0.06,EUR,COMPLETADO,1209.79
+Pago con tarjeta,Actual,2026-04-26 15:12:35,2026-04-27 9:32:12,RingGo,-10.09,0.1,EUR,COMPLETADO,1199.6
+Pago con tarjeta,Actual,2026-04-27 14:08:15,2026-04-28 6:18:10,The Bristol Port Compa,-11.03,0,EUR,COMPLETADO,1188.57
+Pago con tarjeta,Actual,2026-04-28 14:09:44,2026-04-29 5:54:10,The Bristol Port Compa,-10.31,0,EUR,COMPLETADO,1178.26
+Pago con tarjeta,Actual,2026-04-28 20:49:59,2026-04-29 15:26:02,RingGo,-5.92,0,EUR,COMPLETADO,1172.34
+Pago con tarjeta,Actual,2026-04-29 14:38:23,2026-04-30 5:50:28,The Bristol Port Compa,-8.35,0,EUR,COMPLETADO,1163.99

@@ -305,3 +305,112 @@ Key,Concepto,Fecha,Cuenta,Importe,Etiqueta 1,Etiqueta 2,Comentario
 304,rcbo. préstamo5176555455,2026-03-03 00:59:16,Caja Rural,-334.2,6-Inversiones,6-Inmobiliario,Hipoteca piso
 305,"rcbo.kanpondoa, s.l.u.",2026-03-02 00:59:16,Caja Rural,-24.0,8-Deporte,8-Ginmasio,Gimnasio Aoiz
 306,"rcbo.caixabank payments   consumer, e.f.c., e",2026-03-02 00:59:16,Caja Rural,-263.2,1-Hogar,1-Modificaciones,Pago cocina piso
+307,Interés Interest payment,2026-01-01 00:00:00,Trade Republic,22.78,6-Inversiones,6-Cuenta remunerada,Cuenta remunerada TR
+308,Transferencia,2026-01-03 00:00:00,Trade Republic,-650.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+309,Transferencia,2026-01-03 00:00:00,Trade Republic,-30.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+310,SUMINISTROS ORREAGA SLUnull,2026-01-04 00:00:00,Trade Republic,-23.91,1-Hogar,1-Modificaciones,Chapuzas piso
+311,SUMINISTROS ORREAGA SLUnull,2026-01-04 00:00:00,Trade Republic,-9.52,1-Hogar,1-Modificaciones,Chapuzas piso
+312,SUMINISTROS ORREAGA SLUnull,2026-01-09 00:00:00,Trade Republic,-23.59,1-Hogar,1-Modificaciones,Chapuzas piso
+313,SUMINISTROS ORREAGA SLUnull,2026-01-10 00:00:00,Trade Republic,-17.68,1-Hogar,1-Modificaciones,Chapuzas piso
+314,LEROY MERLIN PAMPLONAnull,2026-01-10 00:00:00,Trade Republic,-140.7,1-Hogar,1-Modificaciones,Chapuzas piso
+315,LEROY MERLIN PAMPLONAnull,2026-01-10 00:00:00,Trade Republic,39.96,1-Hogar,1-Modificaciones,Chapuzas piso
+316,Transferencia,2026-01-11 00:00:00,Trade Republic,-889.77,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+317,Transferencia,2026-01-12 00:00:00,Trade Republic,-412.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+318,Transferencia,2026-01-20 00:00:00,Trade Republic,-466.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+319,Transferencia,2026-01-24 00:00:00,Trade Republic,-210.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+320,IKEA IBERICA WEBnull,2026-01-26 00:00:00,Trade Republic,-1873.41,1-Hogar,1-Modificaciones,Muebles Ikea
+321,IKEA PAMPLONA HFBnull,2026-01-31 00:00:00,Trade Republic,-32.16,1-Hogar,1-Modificaciones,Muebles Ikea
+322,Interés Interest payment,2026-02-01 00:00:00,Trade Republic,14.13,6-Inversiones,6-Cuenta remunerada,Cuenta remunerada TR
+323,SUMINISTROS ORREAGA SLUnull,2026-02-04 00:00:00,Trade Republic,-45.28,1-Hogar,1-Modificaciones,Chapuzas piso
+324,Interés Interest payment,2026-03-01 00:00:00,Trade Republic,9.61,6-Inversiones,6-Cuenta remunerada,Cuenta remunerada TR
+325,LEROY MERLIN PAMPLONA,2026-03-03 00:00:00,Trade Republic,-105.45,1-Hogar,1-Modificaciones,Chapuzas piso
+326,Transferencia,2026-03-16 00:00:00,Trade Republic,-961.62,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+327,Transferencia,2026-03-27 00:00:00,Trade Republic,-100.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+328,Interés Interest payment,2026-04-01 00:00:00,Trade Republic,9.82,6-Inversiones,6-Cuenta remunerada,Cuenta remunerada TR
+329,Transferencia,2026-04-07 00:00:00,Trade Republic,999.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+330,The Bristol Port Compa,2026-03-31 14:21:56,Revolut,-8.8,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+331,Sainsbury's,2026-03-31 17:23:52,Revolut,-51.19,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+332,Bilbao Airport,2026-03-31 22:42:15,Revolut,-4.5,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+333,Dinero aÃ±adido a travÃ©s de BIZUM,2026-04-01 23:00:48,Revolut,19.2,3-Ocio,3-Restaurante,Comida Leire
+334,PULL&BEAR,2026-04-01 13:54:25,Revolut,-73.95,7-Compras,7-Ropa,Compra ropa
+335,Bar Ziripot,2026-04-01 12:58:58,Revolut,-11.4,3-Ocio,3-Bares,Pote
+336,Altube,2026-04-01 17:56:54,Revolut,-30.11,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+337,Fermin Abaurrea Taxi,2026-04-01 19:26:39,Revolut,-22.7,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+338,Bar Kanpondoa,2026-04-01 22:56:26,Revolut,-96.0,3-Ocio,3-Restaurante,Cena en Aoiz
+339,Hdh,2026-04-01 15:10:32,Revolut,-39.05,3-Ocio,3-Restaurante,Comida Leire
+340,Dinero aÃ±adido a travÃ©s de BIZUM,2026-04-02 21:15:13,Revolut,38.4,3-Ocio,3-Restaurante,Cena en Aoiz
+341,Sorgin Taberna,2026-04-02 14:07:14,Revolut,-9.5,3-Ocio,3-Bares,Pote
+342,Bar Kanpondoa,2026-04-03 12:48:44,Revolut,-14.1,3-Ocio,3-Restaurante,Cena en Aoiz
+343,Arando Taberna,2026-04-04 12:18:26,Revolut,-19.5,3-Ocio,3-Bares,Pote
+344,Autopistas,2026-04-01 18:00:48,Revolut,-6.85,2-Trabajo,2-Gasto Viajes,Viaje Bristol 06
+345,Irati Express Sl Aoiz,2026-04-04 18:14:45,Revolut,-11.88,3-Ocio,3-Bares,Pote
+346,Fronton Toki Eder Aoiz,2026-04-04 19:21:30,Revolut,-4.8,3-Ocio,3-Bares,Pote
+347,Fronton Toki Eder Aoiz,2026-04-04 21:33:48,Revolut,-4.8,3-Ocio,3-Bares,Pote
+348,Zuribeltz,2026-04-05 13:18:05,Revolut,-22.1,3-Ocio,3-Bares,Pote
+349,Pago de IKER SOTO AYAPE,2026-04-07 14:35:27,Revolut,374.0,2-Trabajo,2-Gasto Viajes,Viaje Bristol 05
+350,Bizum payment to: Inigo L.H.,2026-04-07 20:31:43,Revolut,-41.64,3-Ocio,3-Restaurante,Comida con amigos
+351,Bizum payment to: Elisa A.A.,2026-04-07 20:32:47,Revolut,-26.0,1-Hogar,1-Modificaciones,Chapuzas piso
+352,Pago de IKER SOTO AYAPE,2026-04-08 08:11:20,Revolut,1200.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+353,Suministros Orreaga,2026-04-07 18:29:49,Revolut,-8.21,1-Hogar,1-Modificaciones,Chapuzas piso
+354,Intermorea,2026-04-09 14:00:20,Revolut,-62.98,7-Compras,7-Ropa,Compra ropa deporte
+355,Bar Kanpondoa,2026-04-09 20:51:29,Revolut,-2.0,3-Ocio,3-Restaurante,Cena en Aoiz
+356,Dinero aÃ±adido a travÃ©s de BIZUM,2026-04-11 13:59:50,Revolut,5.0,3-Ocio,3-Restaurante,Cena en Aoiz
+357,Fronton Toki Eder Aoiz,2026-04-11 13:27:53,Revolut,-17.8,3-Ocio,3-Bares,Pote
+358,Bizum payment to: Ainara Z.A.,2026-04-12 09:28:45,Revolut,-17.5,3-Ocio,3-Restaurante,Comida con amigos
+359,Bizum payment to: Ignacio S.J.,2026-04-14 09:11:01,Revolut,-82.0,4-Vehículos,4-Impuestos,Impuesto circulación
+360,Pago de IKER SOTO AYAPE,2026-04-14 09:12:09,Revolut,82.0,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+361,Village Bristol,2026-04-14 18:15:21,Revolut,-1.16,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+362,Bizum payment to: LEIRE.R.C.,2026-04-14 19:04:04,Revolut,-20.0,3-Ocio,3-Bares,Potes
+363,The Bristol Port Compa,2026-04-15 14:19:00,Revolut,-11.79,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+364,The Bristol Port Compa,2026-04-16 14:13:17,Revolut,-11.78,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+365,Village Hotels,2026-04-17 21:08:04,Revolut,-73.53,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+366,The Bristol Port Compa,2026-04-17 13:52:09,Revolut,-7.96,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+367,RingGo,2026-04-19 15:15:33,Revolut,-10.04,3-Ocio,3-Transporte,Viaje Bristol 07 - Parking
+368,RingGo,2026-04-18 20:27:19,Revolut,-5.89,3-Ocio,3-Transporte,Viaje Bristol 07 - Parking
+369,Bizum payment to: Inigo L.H.,2026-04-20 23:27:53,Revolut,-45.0,3-Ocio,3-Juerga,Pelota San Fermin
+370,The Bristol Port Compa,2026-04-20 14:14:35,Revolut,-2.77,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+371,The Bristol Port Compa,2026-04-20 13:39:52,Revolut,-7.97,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+372,The Bristol Port Compa,2026-04-21 14:32:39,Revolut,-11.78,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+373,The Bristol Port Compa,2026-04-22 13:42:12,Revolut,-10.99,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+374,The Bristol Port Compa,2026-04-23 13:45:10,Revolut,-11.03,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+375,The Bristol Port Compa,2026-04-24 14:22:34,Revolut,-11.0,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+376,Sainsbury's,2026-04-24 18:46:24,Revolut,-20.06,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07 - Cervezas
+377,Village Hotels,2026-04-26 21:04:51,Revolut,-24.01,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+378,Left Handed Giant Brewpub,2026-04-25 20:46:17,Revolut,-15.55,3-Ocio,3-Bares,Viaje Bristol 07 - Cervezas
+379,RingGo,2026-04-25 20:27:53,Revolut,-5.92,3-Ocio,3-Transporte,Viaje Bristol 07 - Parking
+380,RingGo,2026-04-26 15:12:35,Revolut,-10.09,3-Ocio,3-Transporte,Viaje Bristol 07 - Parking
+381,The Bristol Port Compa,2026-04-27 14:08:15,Revolut,-11.03,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+382,The Bristol Port Compa,2026-04-28 14:09:44,Revolut,-10.31,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+383,RingGo,2026-04-28 20:49:59,Revolut,-5.92,3-Ocio,3-Transporte,Viaje Bristol 07 - Parking
+384,The Bristol Port Compa,2026-04-29 14:38:23,Revolut,-8.35,2-Trabajo,2-Gasto Viajes,Viaje Bristol 07
+385,"rcbo.caixabank payments   consumer, e.f.c., e",2026-04-30 01:59:16,Caja Rural,-263.2,1-Hogar,1-Modificaciones,Pago cocina piso
+386,"trf. loxin 2002, s.l.",2026-04-30 01:59:16,Caja Rural,204.15,2-Trabajo,2-Gasto Viajes,Viaje Bristol -07
+387,trf. gobierno de navarra,2026-04-29 01:59:16,Caja Rural,1053.91,5-IRPF,5-Declaración Renta,Declaración renta 2025
+388,"trf. loxin 2002, s.l.",2026-04-29 01:59:16,Caja Rural,2640.79,2-Trabajo,2-Nómina,Nomina
+389,"rcbo.iberdrola clientes,sa",2026-04-28 01:59:16,Caja Rural,-27.27,1-Hogar,1-Suministros,Pago electricidad
+390,aut. vasco aragonesa ap68,2026-04-17 01:59:16,Caja Rural,-6.85,2-Trabajo,2-Gasto Viajes,Viaje Britol 07
+391,sarasa n/ap15 navarra,2026-04-17 01:59:16,Caja Rural,-2.65,3-Ocio,3-Transporte,Peaje
+392,"trf. loxin 2002, s.l.",2026-04-16 01:59:16,Caja Rural,9.5,2-Trabajo,2-Gasto Viajes,Viaje Britol 07
+393,trf. gobierno de navarra,2026-04-15 01:59:16,Caja Rural,558.11,5-IRPF,5-Declaración Renta,Declaración renta 2025
+394,trf.iker soto ayape,2026-04-14 01:59:16,Caja Rural,-82.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+395,tj-paypal *google google one,2026-04-14 01:59:16,Caja Rural,-2.99,1-Hogar,1-Subscripciones,Google
+396,"rcbo.vodafone servicios, s.l.u.",2026-04-14 01:59:16,Caja Rural,-46.55,1-Hogar,1-Subscripciones,Vodafone
+397,tj-an energeticos barbatain,2026-04-13 01:59:16,Caja Rural,-60.0,4-Vehículos,4-Transporte,Gasolina
+398,tj-www.amazon,2026-04-13 01:59:16,Caja Rural,-44.6,1-Hogar,1-Accesorios,Compras para casa
+399,tj-paypal *hpprintingc,2026-04-12 01:59:16,Caja Rural,-5.49,1-Hogar,1-Subscripciones,tinta HP
+400,sarasa s/ap15 navarra,2026-04-11 01:59:16,Caja Rural,-2.65,3-Ocio,3-Transporte,Peaje
+401,tj-expaoizto,2026-04-10 01:59:16,Caja Rural,-65.79,1-Hogar,1-Alimentación,Carrefour Aoiz
+402,tj-las de pichi,2026-04-09 01:59:16,Caja Rural,-12.8,3-Ocio,3-Bares,Pote
+403,tj-paypal *itunesappst apple,2026-04-09 01:59:16,Caja Rural,-0.99,1-Hogar,1-Subscripciones,itunes
+404,trf.iker soto ayape,2026-04-08 01:59:16,Caja Rural,-1200.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+405,tj-leroy merlin pamplona,2026-04-07 01:59:16,Caja Rural,-10.73,1-Hogar,1-Modificaciones,Chapuzas piso
+406,trf.iker soto ayape,2026-04-07 01:59:16,Caja Rural,-999.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+407,trf.iker soto ayape,2026-04-07 01:59:16,Caja Rural,-374.0,9-Traspasos Propios,9-Traspasos Propios,Traspasos propios
+408,rcbo.coop. viviendas ns de la misericordia,2026-04-07 01:59:16,Caja Rural,-55.31,1-Hogar,1-Subscripciones,Cooperativa piso
+409,tj-expaoizto,2026-04-06 01:59:16,Caja Rural,-36.86,1-Hogar,1-Alimentación,Carrefour Aoiz
+410,tj-paypal *spotify*p41226844,2026-04-05 01:59:16,Caja Rural,-20.99,1-Hogar,1-Subscripciones,Spotify
+411,cuota multitranquilidad,2026-04-05 01:59:16,Caja Rural,-30.51,1-Hogar,1-Subscripciones,Seguro hogar
+412,tj-google play apps,2026-04-04 01:59:16,Caja Rural,-10.99,1-Hogar,1-Subscripciones,Pago google
+413,rcbo. préstamo5176555455,2026-04-03 01:59:16,Caja Rural,-334.2,6-Inversiones,6-Inmobiliario,Hipoteca piso
+414,"trf. loxin 2002, s.l.",2026-04-02 01:59:16,Caja Rural,374.19,2-Trabajo,2-Gasto Viajes,Viaje Bristol -003
+415,"rcbo.kanpondoa, s.l.u.",2026-04-01 01:59:16,Caja Rural,-24.0,8-Deporte,8-Ginmasio,Gimnasio Aoiz
