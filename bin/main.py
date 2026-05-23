@@ -12,8 +12,8 @@ from gui import main_gui
 def main():
     generate_account_history() # generate account history from expenses and accounts data
 
-    importing_data, data, categories, subcategories, accounts, accounts_history_data = app_init() # csv reading and settup
-    main_gui(importing_data, data, categories, subcategories, accounts, accounts_history_data) # streamlit server
+    importing_data, data, categories, subcategories, accounts, accounts_history_data, excluded_categories = app_init() # csv reading and settup
+    main_gui(importing_data, data, categories, subcategories, accounts, accounts_history_data, excluded_categories) # streamlit server
     
         
 if __name__ == "__main__":
