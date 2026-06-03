@@ -20,6 +20,75 @@ from functions import (save_csv_data, get_path, get_metrics, import_revolut, aut
                        import_trade_republic, import_csv_data)
 
 
+def _inject_css():
+    st.markdown("""
+    <style>
+    /* ─── Hide Streamlit chrome ───────────────────────────────── */
+    #MainMenu { visibility: hidden; }
+    footer    { visibility: hidden; }
+    [data-testid="stHeader"]       { display: none; }
+    [data-testid="stDecoration"]   { display: none; }
+    [data-testid="stStatusWidget"] { display: none; }
+
+    /* ─── App container ───────────────────────────────────────── */
+    .block-container {
+        padding-top: 2rem;
+        padding-bottom: 2rem;
+        max-width: 1200px;
+    }
+
+    /* ─── Sidebar ─────────────────────────────────────────────── */
+    [data-testid="stSidebar"] {
+        border-right: 1px solid rgba(255,255,255,0.06);
+    }
+    [data-testid="stSidebar"] > div:first-child {
+        padding-top: 1.5rem;
+    }
+    [data-testid="stSidebar"] .stButton > button {
+        border-radius: 8px;
+        font-size: 0.82rem;
+        font-weight: 500;
+        letter-spacing: 0.07em;
+        transition: all 0.15s ease;
+    }
+    [data-testid="stSidebar"] h1 {
+        font-size: 1rem;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+    }
+
+    /* ─── Headings ────────────────────────────────────────────── */
+    h1 { font-weight: 700; letter-spacing: -0.02em; }
+    h2 { font-weight: 600; letter-spacing: -0.01em; }
+    h3 { font-weight: 600; }
+
+    /* ─── Primary buttons ─────────────────────────────────────── */
+    [data-testid="baseButton-primary"] {
+        border-radius: 8px !important;
+        font-weight: 600 !important;
+        letter-spacing: 0.04em !important;
+    }
+    [data-testid="baseButton-secondary"] {
+        border-radius: 8px !important;
+    }
+
+    /* ─── Metric cards ────────────────────────────────────────── */
+    [data-testid="stMetric"] {
+        background: rgba(255,255,255,0.03);
+        border: 1px solid rgba(255,255,255,0.07);
+        border-radius: 10px;
+        padding: 1rem 1.2rem;
+    }
+
+    /* ─── Dividers ────────────────────────────────────────────── */
+    hr { opacity: 0.12; margin: 1.5rem 0; }
+
+    /* ─── Success / info messages ─────────────────────────────── */
+    [data-testid="stAlert"] { border-radius: 8px; }
+    </style>
+    """, unsafe_allow_html=True)
+
+
 _BANK_IMPORTERS = {
     "Revolut":        import_revolut,
     "Caja Rural":     import_caja_rural,
@@ -49,6 +118,8 @@ def main_gui(importing_data, data, categories, subcategories, accounts, accounts
         initial_sidebar_state="expanded"
     )
 
+    _inject_css()
+
     if "page" not in st.session_state:
         st.session_state.page = "HOME"
 
@@ -56,8 +127,10 @@ def main_gui(importing_data, data, categories, subcategories, accounts, accounts
     with st.sidebar:
         st.title(config.SB_TITLE)
         for label in ["HOME", "EXPENSES", "IMPORT", "EXPORT", "SETTINGS"]:
+            is_active = st.session_state.page == label
             st.button(label, on_click=change_page, args=[label],
-                      type="secondary", use_container_width=True,
+                      type="primary" if is_active else "secondary",
+                      use_container_width=True,
                       key=f"bttn_{label.lower()}")
 
     # --- ROUTER ---
@@ -372,8 +445,8 @@ def balance_graph(date_ini, date_end, account, data, excluded_categories=None):
         yaxis_title=None,
         bargap=0.3,
         font=dict(size=15, family='Arial'),
-        template='plotly_white',
-        xaxis=dict(tickfont=dict(size=14, color='#555555')),
+        template='plotly_dark',
+        xaxis=dict(tickfont=dict(size=14, color='#999999')),
         yaxis=dict(visible=False),
         plot_bgcolor='rgba(0,0,0,0)',
         paper_bgcolor='rgba(0,0,0,0)',
@@ -395,14 +468,16 @@ def variation_graph(date_ini, date_end, account, data):
     print(f"{datetime.now()} DEBUG - the data before the error is: {data}")
 
     fig = px.line(data, x='date', y='amount', color='account', markers=True,
-                  title="Variation graph", template='plotly_white')
+                  title="Variation graph", template='plotly_dark')
     fig.update_layout(
         xaxis_title="Date",
         yaxis_title="€",
         legend_title="Cuentas",
         height=400,
         margin=dict(l=20, r=20, t=50, b=20),
-        hovermode="x unified"
+        hovermode="x unified",
+        paper_bgcolor='rgba(0,0,0,0)',
+        plot_bgcolor='rgba(0,0,0,0)',
     )
 
     st.plotly_chart(fig, use_container_width=True,
