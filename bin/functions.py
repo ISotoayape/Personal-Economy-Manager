@@ -134,7 +134,13 @@ def import_revolut(uploader_output):
         print(f"{datetime.now()} DEBUG - Error: no csv selected.")
         return None
 
-    importing_data        = pd.read_csv(uploader_output)
+    importing_data = pd.read_csv(uploader_output, encoding='utf-8')
+    # Revolut exports UTF-8 bytes misread as Latin-1 and re-encoded as UTF-8 (double-encoding)
+    fix = lambda x: x.encode('latin-1').decode('utf-8') if isinstance(x, str) else x
+    importing_data.columns = [fix(c) for c in importing_data.columns]
+    for col in importing_data.select_dtypes(include='object').columns:
+        importing_data[col] = importing_data[col].apply(fix)
+
     formated_importing_data = import_csv_data(get_path("importing_expenses"))
 
     formated_importing_data[['Concepto', 'Fecha', 'Importe']] = importing_data[['Descripción', 'Fecha de inicio', 'Importe']]

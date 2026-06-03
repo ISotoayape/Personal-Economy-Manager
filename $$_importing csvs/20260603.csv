@@ -1,0 +1,61 @@
+Tipo,Producto,Fecha de inicio,Fecha de finalizaciÃ³n,DescripciÃ³n,Importe,ComisiÃ³n,Divisa,State,Saldo
+Recargas,Actual,2026-05-01 7:28:45,2026-05-01 7:28:46,Pago de IKER SOTO AYAPE,200,0,EUR,COMPLETADO,1363.99
+Pago con tarjeta,Actual,2026-04-30 11:36:00,2026-05-01 12:29:01,WhSmith,-2.9,0,EUR,COMPLETADO,1361.09
+Pago con tarjeta,Actual,2026-04-30 10:40:11,2026-05-01 16:19:34,Ascona,-18.04,0,EUR,COMPLETADO,1343.05
+Recargas,Actual,2026-05-01 21:55:47,2026-05-01 21:55:47,Dinero aÃ±adido a travÃ©s de BIZUM,13.2,0,EUR,COMPLETADO,1356.25
+Recargas,Actual,2026-05-01 21:57:17,2026-05-01 21:57:17,Dinero aÃ±adido a travÃ©s de BIZUM,13.2,0,EUR,COMPLETADO,1369.45
+Recargas,Actual,2026-05-01 22:19:39,2026-05-01 22:19:40,Dinero aÃ±adido a travÃ©s de BIZUM,5,0,EUR,COMPLETADO,1374.45
+Recargas,Actual,2026-05-02 7:54:08,2026-05-02 7:54:09,Pago de IKER SOTO AYAPE,1040,0,EUR,COMPLETADO,2414.45
+Pago con tarjeta,Actual,2026-05-01 21:41:30,2026-05-02 8:46:20,Bar Goroabe,-52.8,0,EUR,COMPLETADO,2361.65
+Pago con tarjeta,Actual,2026-05-01 19:46:50,2026-05-02 8:46:21,Bidezkairu,-8.7,0,EUR,COMPLETADO,2352.95
+Pago con tarjeta,Actual,2026-05-01 14:29:12,2026-05-02 8:49:25,Juanito Taberna,-56.4,0,EUR,COMPLETADO,2296.55
+Pago con tarjeta,Actual,2026-05-02 12:20:06,2026-05-03 2:08:13,Fronton Toki Eder Aoiz,-30.5,0,EUR,COMPLETADO,2266.05
+Transferir,Actual,2026-05-03 20:19:04,2026-05-03 20:19:04,Bizum payment to: OIHAN.O.S.,-12.5,0,EUR,COMPLETADO,2253.55
+Recargas,Actual,2026-05-03 20:20:09,2026-05-03 20:20:09,Dinero aÃ±adido a travÃ©s de BIZUM,13.5,0,EUR,COMPLETADO,2267.05
+Pago con tarjeta,Actual,2026-05-06 9:36:55,2026-05-07 2:08:41,Lidl,-1.79,0,EUR,COMPLETADO,2265.26
+Pago con tarjeta,Actual,2026-05-09 8:35:34,2026-05-16 9:21:49,BIDEGI,-2.24,0,EUR,COMPLETADO,2263.02
+Pago con tarjeta,Actual,2026-05-09 8:33:59,2026-05-16 9:21:50,BIDEGI,-1.17,0,EUR,COMPLETADO,2261.85
+Transferir,Actual,2026-05-16 16:04:05,2026-05-16 16:04:05,Bizum payment to: XANTI.V.E.,-30,0,EUR,COMPLETADO,2231.85
+Transferir,Actual,2026-05-16 16:05:11,2026-05-16 16:05:11,Bizum payment to: Inigo L.H.,-50,0,EUR,COMPLETADO,2181.85
+Transferir,Actual,2026-05-17 3:42:45,2026-05-17 3:42:45,Bizum payment to: Estitxu L.L.,-10,0,EUR,COMPLETADO,2171.85
+Pago con tarjeta,Actual,2026-05-16 21:43:21,2026-05-17 9:50:20,Fronton Toki Eder Aoiz,-92.6,0,EUR,COMPLETADO,2079.25
+Recargas,Actual,2026-05-17 16:26:16,2026-05-17 16:26:17,Dinero aÃ±adido a travÃ©s de BIZUM,18.5,0,EUR,COMPLETADO,2097.75
+Pago con tarjeta,Actual,2026-05-18 17:13:24,,Village Bristol,-1.16,0,EUR,DEVUELTO,
+Recargas,Actual,2026-05-18 20:29:25,2026-05-18 20:29:25,Dinero aÃ±adido a travÃ©s de BIZUM,14.5,0,EUR,COMPLETADO,2112.25
+Recargas,Actual,2026-05-18 20:38:48,2026-05-18 20:38:49,Dinero aÃ±adido a travÃ©s de BIZUM,18.5,0,EUR,COMPLETADO,2130.75
+Pago con tarjeta,Actual,2026-05-19 20:40:13,2026-05-20 2:12:21,Village Hotels,-67.74,0,EUR,COMPLETADO,2063.01
+Pago con tarjeta,Actual,2026-05-19 13:15:34,2026-05-20 4:57:15,The Bristol Port Compa,-9.16,0,EUR,COMPLETADO,2053.85
+Pago con tarjeta,Actual,2026-05-19 13:12:29,2026-05-20 4:57:16,The Bristol Port Compa,-11.48,0,EUR,COMPLETADO,2042.37
+Pago con tarjeta,Actual,2026-05-19 18:33:11,2026-05-20 14:03:52,Lidl,-8.68,0,EUR,COMPLETADO,2033.69
+Pago con tarjeta,Actual,2026-05-19 11:01:32,2026-05-20 14:26:57,Gr Fasteners And Engin,-35.33,0,EUR,COMPLETADO,1998.36
+Pago con tarjeta,Actual,2026-05-19 18:20:19,2026-05-20 14:50:14,Sports Direct,-96.29,0,EUR,COMPLETADO,1902.07
+Pago con tarjeta,Actual,2026-05-20 13:26:02,2026-05-21 4:54:48,The Bristol Port Compa,-11.84,0,EUR,COMPLETADO,1890.23
+Pago con tarjeta,Actual,2026-05-21 12:38:34,2026-05-22 4:47:50,The Bristol Port Compa,-11.86,0,EUR,COMPLETADO,1878.37
+Pago con tarjeta,Actual,2026-05-22 21:02:47,2026-05-23 2:11:33,Village Hotels,-34.87,0,EUR,COMPLETADO,1843.5
+Pago con tarjeta,Actual,2026-05-22 13:06:35,2026-05-23 5:02:25,The Bristol Port Compa,-8.84,0,EUR,COMPLETADO,1834.66
+Pago con tarjeta,Actual,2026-05-23 21:05:28,2026-05-24 2:10:43,Tst Portishead Brewing,-44.51,0.45,EUR,COMPLETADO,1789.7
+Pago con tarjeta,Actual,2026-05-23 13:41:15,2026-05-24 2:10:45,Village Hotels,-22.04,0.22,EUR,COMPLETADO,1767.44
+Pago con tarjeta,Actual,2026-05-24 20:38:36,2026-05-25 2:08:46,Village Hotels,-23.2,0.23,EUR,COMPLETADO,1744.01
+Pago con tarjeta,Actual,2026-05-24 12:58:07,2026-05-25 4:54:50,Left Handed Giant Brewpub,-7.56,0.08,EUR,COMPLETADO,1736.37
+Pago con tarjeta,Actual,2026-05-24 15:15:01,2026-05-25 4:54:50,The Christmas Steps,-33.19,0.33,EUR,COMPLETADO,1702.85
+Pago con tarjeta,Actual,2026-05-25 20:48:02,2026-05-26 2:12:59,Village Hotels,-29.09,0,EUR,COMPLETADO,1673.76
+Pago con tarjeta,Actual,2026-05-25 14:30:26,2026-05-26 4:52:18,A Q U A Italia,-35.01,0,EUR,COMPLETADO,1638.75
+Pago con tarjeta,Actual,2026-05-26 20:50:24,2026-05-27 2:02:44,Village Hotels,-23.18,0,EUR,COMPLETADO,1615.57
+Pago con tarjeta,Actual,2026-05-26 13:21:37,2026-05-27 5:12:45,The Bristol Port Compa,-10.01,0,EUR,COMPLETADO,1605.56
+Pago con tarjeta,Actual,2026-05-27 20:38:08,2026-05-28 2:22:47,Village Hotels,-34.75,0,EUR,COMPLETADO,1570.81
+Pago con tarjeta,Actual,2026-05-27 12:29:20,2026-05-28 5:05:14,The Bristol Port Compa,-11.83,0,EUR,COMPLETADO,1558.98
+Pago con tarjeta,Actual,2026-05-27 18:09:41,2026-05-28 13:05:49,Esso,-78.52,0,EUR,COMPLETADO,1480.46
+Pago con tarjeta,Actual,2026-05-28 16:54:13,2026-05-29 13:37:22,Repsol,-25.6,0,EUR,COMPLETADO,1454.86
+Pago con tarjeta,Actual,2026-05-28 11:41:03,2026-05-29 15:06:03,Burger King,-24.38,0,EUR,COMPLETADO,1430.48
+Pago con tarjeta,Actual,2026-05-29 11:31:52,2026-05-30 2:33:54,Taxi Jose Angel,-18.9,0,EUR,COMPLETADO,1411.58
+Pago con tarjeta,Actual,2026-05-29 12:18:33,2026-05-30 2:34:11,Bodegas Nunez,-5.2,0,EUR,COMPLETADO,1406.38
+Pago con tarjeta,Actual,2026-05-29 20:24:48,2026-05-30 2:43:28,Floridita Bilbao,-8,0,EUR,COMPLETADO,1398.38
+Pago con tarjeta,Actual,2026-05-29 18:27:02,2026-05-30 2:43:28,Floridita Bilbao,-10,0,EUR,COMPLETADO,1388.38
+Pago con tarjeta,Actual,2026-05-29 20:48:08,2026-05-30 2:43:29,Floridita Bilbao,-8,0,EUR,COMPLETADO,1380.38
+Pago con tarjeta,Actual,2026-05-29 13:27:29,2026-05-30 14:28:42,Antojitos El Grillo,-63.6,0,EUR,COMPLETADO,1316.78
+Pago con tarjeta,Actual,2026-05-29 13:53:24,2026-05-30 14:47:58,El Txoko del Sadar,-11.2,0,EUR,COMPLETADO,1305.58
+Pago con tarjeta,Actual,2026-05-29 20:33:15,2026-05-30 14:48:01,Truck Food 1 Thate Fo,-24,0,EUR,COMPLETADO,1281.58
+Pago con tarjeta,Actual,2026-05-29 17:32:47,2026-05-30 15:20:40,Pollito Barakaldo,-6.2,0,EUR,COMPLETADO,1275.38
+Pago con tarjeta,Actual,2026-05-29 17:10:09,2026-05-30 15:20:40,Pollito Barakaldo,-6.2,0,EUR,COMPLETADO,1269.18
+Pago con tarjeta,Actual,2026-05-30 9:41:00,2026-05-31 2:20:21,Suministros Orreaga,-18.26,0,EUR,COMPLETADO,1250.92
+Pago con tarjeta,Actual,2026-05-28 16:33:01,2026-05-31 8:26:42,Autopistas,-6.85,0,EUR,COMPLETADO,1244.07
